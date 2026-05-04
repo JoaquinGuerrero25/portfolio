@@ -7,7 +7,7 @@ import { HeroActions } from "@/components/sections/hero/HeroActions";
 
 export function Hero() {
     return (
-        <section className="border w-full h-screen py-2 flex flex-col items-center justify-center gap-4">
+        <section className="w-full max-w-6xl h-screen py-2 flex flex-col items-center justify-center gap-4">
             <div className="flex flex-col items-center justify-center">
                 <HeroBadge />
             </div>
