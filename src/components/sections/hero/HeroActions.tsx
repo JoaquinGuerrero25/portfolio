@@ -20,7 +20,7 @@ export function HeroActions() {
                 <GitHubIcon className="size-8 text-gray-400" />
             </a>
             <a
-                href="www.linkedin.com/in/joaquinguerrero256"
+                href="https://www.linkedin.com/in/joaquinguerrero256"
                 target="_blank"
                 rel="noopener noreferrer"
             >
